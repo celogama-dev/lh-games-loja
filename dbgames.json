@@ -1,0 +1,46 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Super Mario Bros",
+      "descricao": "Desfrute do clássico Super Mario Bros da Nintendo. Salte, colete moedas e power-ups, destrua inimigos e complete com sucesso todos os níveis juntos Mario.",
+      "foto": "jogo1.PNG",
+      "preco": 300
+    },
+    {
+      "id": 2,
+      "produto": "League Of Legends (LOL)",
+      "descricao": "Neste game os jogadores têm o papel de invocadores e controlam campeões, também lutam contra outros invocadores e campeões.",
+      "foto": "jogo2.PNG",
+      "preco": 300
+    },
+    {
+      "id": 3,
+      "produto": "Elden Ring",
+      "descricao": "Reúna os fragmentos do Anel Prístino espalhados pelas Terras Intermédias. Ou seja, será preciso derrotar nada mais, nada menos que semideuses para se tornar o novo Lorde Prístino.",
+      "foto": "jogo3.PNG",
+      "preco": 300
+    },
+    {
+      "id": 4,
+      "produto": "The Last of Us",
+      "descricao": "Em uma civilização devastada, em que infectados e sobreviventes veteranos estão à solta, Joel, um protagonista abatido, é contratado para tirar uma garota de 14 anos, Ellie, de uma zona de quarentena militar. No entanto, o que começa como um pequeno serviço se transforma em uma jornada brutal através do país.",
+      "foto": "jogo4.PNG",
+      "preco": 299
+    },
+    {
+      "id": 5,
+      "produto": "The Legend of Zelda: Breath of the Wild",
+      "descricao": "Após 100 anos de sono, o Link desperta e embarca numa aventura de descoberta, exploração e aventura em The Legend of Zelda: Breath of the Wild, o novo jogo que quebra com as convenções desta lendária série!",
+      "foto": "jogo5.JPG",
+      "preco": 350
+    },
+    {
+      "id": 6,
+      "produto": "Star Trek Ressurgence",
+      "descricao": "Uma aventura de narrativa épica apresentando interpretação de papel via diálogos e histórias ricas e ramificadas, você também vai interagir com o universo de Star Trek de várias formas, incluindo pilotagem de ônibus espaciais, combates de phaser, escaneamento de tricorder, modo furtivo e muito mais.",
+      "foto": "jogo6.JPEG",
+      "preco": 200
+    }
+  ]
+}
